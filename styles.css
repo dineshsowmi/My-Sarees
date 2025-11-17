@@ -107,7 +107,7 @@
 .hero {
   position: relative;
   height: 100vh;
-  background: url('Image/Bridal\ saree.jpg') 
+  background: url('Bridal\ saree.jpg') 
     no-repeat center/cover;
   display: flex;
   align-items: center;
@@ -1066,3 +1066,4 @@
     font-size: 0.85rem;
   }
 }
+
